@@ -133,3 +133,4 @@ dmypy.json
 *.mov
 *.DS_Store
 *.pptx
+*temp/
